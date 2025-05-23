@@ -1,12 +1,86 @@
-# React + Vite
+# 🌿 PlantPal - My First React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Hydrate Smart. Save Earth. 💧🌍**
 
-Currently, two official plugins are available:
+Welcome to **PlantPal**, my first ReactJS project!  
+This is a smart planter UI concept built using React, TailwindCSS, and Framer Motion.  
+It’s part of my portfolio to showcase my frontend development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Click here to view live site](https://your-github-username.github.io/plantpal/)  
+*(replace with actual link if deployed)*
+
+---
+
+## 🧠 What I Learned
+
+- React Components & JSX structure
+- Props, State, and useLayoutEffect
+- Animations using Framer Motion
+- TailwindCSS layout & responsiveness
+- Git & GitHub project structure
+- Theme switching (Light/Dark Mode)
+
+---
+
+## 🔧 Tech Stack
+
+- **React.js**
+- **TailwindCSS**
+- **Framer Motion**
+- **JavaScript (ES6+)**
+- **GitHub Pages** (optional for deployment)
+
+---
+
+## 📦 Features
+
+- Animated Hero Section
+- Product Features with Images & Text
+- Responsive Layout
+- FAQ Accordion
+- Buy Now Section
+- Theme Toggle (Light/Dark)
+- Smooth Scroll with Navigation Links
+
+---
+
+## 📁 Project Structure
+
+plantpal/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── Hero.jsx
+│ │ ├── Features1-5.jsx
+│ │ ├── Section1,2,4.jsx
+│ │ ├── FAQ.jsx
+│ │ └── Buy.jsx
+│ ├── App.jsx
+│ └── index.css
+├── package.json
+└── README.md
+
+
+---
+
+## 🙋‍♂️ About Me
+
+I’m Mohit — a budding web developer on a mission to become **financially free** by building cool, useful, and high-quality web projects.  
+This is just the beginning, bhai!
+
+---
+
+## 💬 Feedback / Suggestions?
+
+Feel free to open an issue or drop me a message!
+
+---
+
+## 📜 License
+
+This project is for learning and portfolio purpose only.
+
