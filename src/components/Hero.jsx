@@ -41,7 +41,7 @@ const Hero = () => {
         whileInView={{ opacity: 1, x: 0 }}
         transition={{ duration: 1 }}
         viewport={{ once: true }}
-        preload="true"
+        
         className="hero2"
         src="/plantpalai.jpg"
         alt="Product"
