@@ -1,5 +1,7 @@
 import React from "react";
 import { motion } from "motion/react";
+import leaf from "../assets/leaf.png";
+import leaf2 from "../assets/leaf2.png";
 
 const Section1 = () => {
   return (
@@ -44,8 +46,8 @@ const Section1 = () => {
         />
         <div className=" text justify-items-center text-center ">
           <div className=" justify-items-center text-center  ">
-            <img className="leaf w-[10vh]" src="/leaf.png" alt="" />
-            <img className="leaf2 w-[10vh]" src="/leaf2.png" alt="" />
+            <img className="leaf w-[10vh]" src={leaf} alt="" />
+            <img className="leaf2 w-[10vh]" src={leaf2} alt="" />
             <h3 className="heading font-semibold text-[2.1vw]">
               An Ever-Growing Database of 40+ Plants
             </h3>

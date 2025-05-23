@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "motion/react";
 
+import hero2 from "../assets/plantpalai.jpg";
 const Hero = () => {
   return (
     <div className="hero" id="hero">
@@ -43,7 +44,7 @@ const Hero = () => {
         viewport={{ once: true }}
         
         className="hero2"
-        src="/plantpalai.jpg"
+        src={hero2}
         alt="Product"
       />
     </div>
