@@ -707,30 +707,31 @@ body.light .buy {
     }
   }
   .section1 {
-    body.light .chotu {
+    .chotu {
       height: 12vh;
       border: #212122 1px solid;
     }
 
     .imgleft .text {
-      width: 40vw;
-      left: 15vh;
+      width: 50vw;
+      left: 13vh;
       top: -1vw;
       position: absolute;
       h3 {
-        font-size: 2vh;
+        font-size: 1.5vh;
       }
       p {
         font-size: 1vh;
       }
       img {
-        width: 5vh;
+        width: 2vh;
       }
     }
     .imgright {
       margin-top: 20%;
     }
   }
+
   .faq-section {
     margin-top: 5vh;
     padding: 0vh 2vh;
