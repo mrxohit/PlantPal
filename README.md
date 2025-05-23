@@ -10,7 +10,7 @@ It’s part of my portfolio to showcase my frontend development skills.
 
 ## 🚀 Live Preview
 
-[Click here to view live site](https://your-github-username.github.io/plantpal/)  
+[Click here to view live site](https://mrxohit.github.io/PlantPal/)  
 *(replace with actual link if deployed)*
 
 ---
